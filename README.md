@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor em formação, apaixonado por tecnologia e em constante aprendizado.  
 🎓 Cursando **Análise e Desenvolvimento de Sistemas (Unicesumar)**  
-🚀 Formado pelo programa **Entra21 – C# (320h)**  
+🚀 Formado pelo programa **Entra21 – C#**  
 📌 Foco em **Back-End com C#/.NET**, mas também exploro **Angular e SQL**  
 
 ---
