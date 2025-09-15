@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ruan!
 
-<!--
-**ruan-developer/ruan-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação, apaixonado por tecnologia e em constante aprendizado.  
+🎓 Cursando **Análise e Desenvolvimento de Sistemas (Unicesumar)**  
+🚀 Formado pelo programa **Entra21 – C# (320h)**  
+📌 Foco em **Back-End com C#/.NET**, mas também exploro **Angular e SQL**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- **Linguagens:** C#, SQL, JavaScript/TypeScript  
+- **Frameworks:** .NET, Angular  
+- **Ferramentas:** Git/GitHub, Visual Studio, Docker  
+
+---
+
+## 📌 Projetos em Destaque
+- [Vitalis](https://github.com/vitalis-app/vitalis-frontend) → Plataforma digital de saúde mental  
+
+---
+
+📫 Entre em contato comigo:  
+[LinkedIn](https://www.linkedin.com/in/ruan-carlos-de-souza) | ✉️ ruansouza.co@gmail.com
