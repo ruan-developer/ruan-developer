@@ -35,4 +35,4 @@ Plataforma digital **gamificada** para autocuidado e bem-estar.
 
 ---
 
-✨ *“Meu maior talento é aprender rápido e me adaptar. A cada projeto, me desafio a crescer como desenvolvedor e como pessoa.”*
+✨ *A cada projeto, me desafio a crescer como desenvolvedor e como pessoa.*
